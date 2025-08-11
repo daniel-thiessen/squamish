@@ -5,7 +5,7 @@
       <Name>Squamish 50 Mile 14h Pacing (GPX-based)</Name>
       <Step xsi:type="Step_t">
         <StepId>0</StepId>
-        <Name>Road &amp; doubletrack out of town</Name>
+        <Name>Road &amp; doubletrack out of town (GPX: 3.9km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>3886</Meters>
         </Duration>
@@ -20,7 +20,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>1</StepId>
-        <Name>Rolling singletrack to AS1</Name>
+        <Name>Rolling singletrack to AS1 (GPX: 5.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>5829</Meters>
         </Duration>
@@ -35,7 +35,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>2</StepId>
-        <Name>Climb 1 – Crumpit Woods</Name>
+        <Name>Climb 1 – Crumpit Woods (GPX: 2.9km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>2914</Meters>
         </Duration>
@@ -50,7 +50,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>3</StepId>
-        <Name>Descent 1 – Into Depot Rd</Name>
+        <Name>Descent 1 – Into Depot Rd (GPX: 3.9km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>3886</Meters>
         </Duration>
@@ -65,7 +65,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>4</StepId>
-        <Name>Climb 2 – Galactic Gravity</Name>
+        <Name>Climb 2 – Galactic Gravity (GPX: 6.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>6801</Meters>
         </Duration>
@@ -80,7 +80,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>5</StepId>
-        <Name>Descent 2 – AS2</Name>
+        <Name>Descent 2 – AS2 (GPX: 3.9km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>3886</Meters>
         </Duration>
@@ -95,7 +95,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>6</StepId>
-        <Name>Climb 3 – Into AS3</Name>
+        <Name>Climb 3 – Into AS3 (GPX: 7.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>7772</Meters>
         </Duration>
@@ -110,7 +110,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>7</StepId>
-        <Name>Descent to Alice Lake</Name>
+        <Name>Descent to Alice Lake (GPX: 5.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>5829</Meters>
         </Duration>
@@ -125,7 +125,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>8</StepId>
-        <Name>Climb 4 – Into Corners</Name>
+        <Name>Climb 4 – Into Corners (GPX: 3.9km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>3886</Meters>
         </Duration>
@@ -140,7 +140,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>9</StepId>
-        <Name>Descent to AS4</Name>
+        <Name>Descent to AS4 (GPX: 4.9km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>4857</Meters>
         </Duration>
@@ -155,7 +155,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>10</StepId>
-        <Name>Climb 5 – Debeck’s Hill</Name>
+        <Name>Climb 5 – Debeck’s Hill (GPX: 5.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>5829</Meters>
         </Duration>
@@ -170,7 +170,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>11</StepId>
-        <Name>Descent to AS5</Name>
+        <Name>Descent to AS5 (GPX: 6.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>6801</Meters>
         </Duration>
@@ -185,7 +185,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>12</StepId>
-        <Name>Climb 6 – Into Finish ridge</Name>
+        <Name>Climb 6 – Into Finish ridge (GPX: 6.8km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>6801</Meters>
         </Duration>
@@ -200,7 +200,7 @@
       </Step>
       <Step xsi:type="Step_t">
         <StepId>13</StepId>
-        <Name>Descent to finish</Name>
+        <Name>Descent to finish (GPX: 9.2km)</Name>
         <Duration xsi:type="Distance_t">
           <Meters>9229</Meters>
         </Duration>

@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+  <Workouts>
+    <Workout Sport="Running">
+      <Name>Squamish 50 Mile 14h Pacing (GPX-based)</Name>
+      <Step xsi:type="Step_t">
+        <StepId>0</StepId>
+        <Name>Road &amp; doubletrack out of town</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>3886</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.209</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.442</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>1</StepId>
+        <Name>Rolling singletrack to AS1</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>5829</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.111</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.333</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>2</StepId>
+        <Name>Climb 1 – Crumpit Woods</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>2914</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.508</LowInMetersPerSecond>
+            <HighInMetersPerSecond>1.667</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>3</StepId>
+        <Name>Descent 1 – Into Depot Rd</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>3886</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.317</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.561</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>4</StepId>
+        <Name>Climb 2 – Galactic Gravity</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>6801</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.450</LowInMetersPerSecond>
+            <HighInMetersPerSecond>1.603</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>5</StepId>
+        <Name>Descent 2 – AS2</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>3886</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.262</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.500</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>6</StepId>
+        <Name>Climb 3 – Into AS3</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>7772</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.357</LowInMetersPerSecond>
+            <HighInMetersPerSecond>1.500</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>7</StepId>
+        <Name>Descent to Alice Lake</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>5829</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.111</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.333</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>8</StepId>
+        <Name>Climb 4 – Into Corners</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>3886</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.310</LowInMetersPerSecond>
+            <HighInMetersPerSecond>1.448</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>9</StepId>
+        <Name>Descent to AS4</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>4857</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.065</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.283</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>10</StepId>
+        <Name>Climb 5 – Debeck’s Hill</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>5829</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.250</LowInMetersPerSecond>
+            <HighInMetersPerSecond>1.382</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>11</StepId>
+        <Name>Descent to AS5</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>6801</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>2.000</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.211</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>12</StepId>
+        <Name>Climb 6 – Into Finish ridge</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>6801</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.188</LowInMetersPerSecond>
+            <HighInMetersPerSecond>1.312</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+      <Step xsi:type="Step_t">
+        <StepId>13</StepId>
+        <Name>Descent to finish</Name>
+        <Duration xsi:type="Distance_t">
+          <Meters>9229</Meters>
+        </Duration>
+        <Intensity>Active</Intensity>
+        <Target xsi:type="Speed_t">
+          <SpeedZone xsi:type="CustomSpeedZone_t">
+            <ViewAs>Pace</ViewAs>
+            <LowInMetersPerSecond>1.919</LowInMetersPerSecond>
+            <HighInMetersPerSecond>2.121</HighInMetersPerSecond>
+          </SpeedZone>
+        </Target>
+      </Step>
+    </Workout>
+  </Workouts>
+</TrainingCenterDatabase>

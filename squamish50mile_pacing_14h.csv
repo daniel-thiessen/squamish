@@ -1,0 +1,15 @@
+Start_km,End_km,Elev_Change_m,Terrain,Target_Pace,Est_Time_hhmm,Segment
+0,4.0,+50,Easy start,7:00-7:20/km,0:29,Road & doubletrack out of town
+4,10.0,+150/-150,Gentle rollers,7:20-7:40/km,0:45,Rolling singletrack to AS1
+10,13.0,+300,Steep climb,10:00-11:00/km,0:33,Climb 1 – Crumpit Woods
+13,17.0,-300,Technical descent,6:40-7:00/km,0:27,Descent 1 – Into Depot Rd
+17,24.0,+600,Long climb,10:20-11:30/km,1:20,Climb 2 – Galactic Gravity
+24,28.0,-250,Flowy descent,6:50-7:10/km,0:28,Descent 2 – AS2
+28,36.0,+700/-200,Major climb,11:00-12:20/km,1:35,Climb 3 – Into AS3
+36,42.0,-500,Mixed technical descent,7:20-7:40/km,0:44,Descent to Alice Lake
+42,46.0,+350,Steep climb,11:30-12:40/km,0:48,Climb 4 – Into Corners
+46,51.0,-300,Flowy descent,7:30-7:50/km,0:39,Descent to AS4
+51,57.0,+450/-100,Rolling climb,12:00-13:20/km,1:18,Climb 5 – Debeck’s Hill
+57,64.0,-500,Steep descent,7:40-8:10/km,0:54,Descent to AS5
+64,71.0,+600/-100,Final big climb,12:40-14:00/km,1:32,Climb 6 – Into Finish ridge
+71,80.5,-750,Final descent,8:00-8:30/km,1:12,Descent to finish

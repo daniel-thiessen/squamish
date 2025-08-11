@@ -1,0 +1,96 @@
+Squamish 50 Mile - 14 Hour Pacing Workout
+==================================================
+
+Instructions for creating this workout in Garmin Connect:
+1. Go to Garmin Connect Web (connect.garmin.com)
+2. Navigate to Training > Workouts
+3. Create New Workout > Running
+4. Add the following workout steps:
+
+Step 1: Road & doubletrack out of town
+  - Type: Distance
+  - Distance: 4.0 km
+  - Target: Pace 7:10 /km
+  - Cumulative Distance: 4.0 km
+
+Step 2: Rolling singletrack to AS1
+  - Type: Distance
+  - Distance: 6.0 km
+  - Target: Pace 7:30 /km
+  - Cumulative Distance: 10.0 km
+
+Step 3: Climb 1 – Crumpit Woods
+  - Type: Distance
+  - Distance: 3.0 km
+  - Target: Pace 10:30 /km
+  - Cumulative Distance: 13.0 km
+
+Step 4: Descent 1 – Into Depot Rd
+  - Type: Distance
+  - Distance: 4.0 km
+  - Target: Pace 6:50 /km
+  - Cumulative Distance: 17.0 km
+
+Step 5: Climb 2 – Galactic Gravity
+  - Type: Distance
+  - Distance: 7.0 km
+  - Target: Pace 10:55 /km
+  - Cumulative Distance: 24.0 km
+
+Step 6: Descent 2 – AS2
+  - Type: Distance
+  - Distance: 4.0 km
+  - Target: Pace 7:00 /km
+  - Cumulative Distance: 28.0 km
+
+Step 7: Climb 3 – Into AS3
+  - Type: Distance
+  - Distance: 8.0 km
+  - Target: Pace 11:40 /km
+  - Cumulative Distance: 36.0 km
+
+Step 8: Descent to Alice Lake
+  - Type: Distance
+  - Distance: 6.0 km
+  - Target: Pace 7:30 /km
+  - Cumulative Distance: 42.0 km
+
+Step 9: Climb 4 – Into Corners
+  - Type: Distance
+  - Distance: 4.0 km
+  - Target: Pace 12:05 /km
+  - Cumulative Distance: 46.0 km
+
+Step 10: Descent to AS4
+  - Type: Distance
+  - Distance: 5.0 km
+  - Target: Pace 7:40 /km
+  - Cumulative Distance: 51.0 km
+
+Step 11: Climb 5 – Debeck’s Hill
+  - Type: Distance
+  - Distance: 6.0 km
+  - Target: Pace 12:40 /km
+  - Cumulative Distance: 57.0 km
+
+Step 12: Descent to AS5
+  - Type: Distance
+  - Distance: 7.0 km
+  - Target: Pace 7:55 /km
+  - Cumulative Distance: 64.0 km
+
+Step 13: Climb 6 – Into Finish ridge
+  - Type: Distance
+  - Distance: 7.0 km
+  - Target: Pace 13:20 /km
+  - Cumulative Distance: 71.0 km
+
+Step 14: Descent to finish
+  - Type: Distance
+  - Distance: 9.5 km
+  - Target: Pace 8:15 /km
+  - Cumulative Distance: 80.5 km
+
+Total Workout Distance: 80.5 km
+
+Alternatively, you can use the basic FIT file generated alongside this file.
